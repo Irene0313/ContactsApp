@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Irene0313/ContactsApp/static/css/main.f94af4f1.css",
+    "main.js": "/Irene0313/ContactsApp/static/js/main.9ac0a337.js",
+    "static/js/488.6fa8a853.chunk.js": "/Irene0313/ContactsApp/static/js/488.6fa8a853.chunk.js",
+    "index.html": "/Irene0313/ContactsApp/index.html",
+    "main.f94af4f1.css.map": "/Irene0313/ContactsApp/static/css/main.f94af4f1.css.map",
+    "main.9ac0a337.js.map": "/Irene0313/ContactsApp/static/js/main.9ac0a337.js.map",
+    "488.6fa8a853.chunk.js.map": "/Irene0313/ContactsApp/static/js/488.6fa8a853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f94af4f1.css",
+    "static/js/main.9ac0a337.js"
+  ]
+}
