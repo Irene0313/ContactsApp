@@ -8,7 +8,7 @@
     "@fontsource/roboto": "^5.1.0",
     "@mui/icons-material": "^6.1.10",
     "@mui/material": "^6.1.10",
-    "axios": "^1.7.9",
+    "axios": "^1.13.5",
     "chroma-js": "^3.1.2",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
